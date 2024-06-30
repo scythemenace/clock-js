@@ -1,4 +1,5 @@
-### Completed 3 tasks:-
+# Experiment with date
+### This repository contains the following three files for the specified tasks performed along with their corresponding filenames
 
 ## Task 1 (counter.js):- 
   - Designed a counter that runs from 30 seconds to 0
